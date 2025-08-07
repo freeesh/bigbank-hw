@@ -13,4 +13,4 @@ For example, to query the status of the Delfi news portal.
 The script will return the following.
 - Response code (for example 200)
 - Result (OK in case of code 200, else NOK)
-- Response time in ms
+- Response time in ms (the time from sending the request to receiving the response headers)
